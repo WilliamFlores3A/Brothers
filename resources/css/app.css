@@ -1,0 +1,29 @@
+/* public/css/custom.css */
+body {
+    background-color: #f8f9fa; /* Fondo blanco */
+    color: #343a40; /* Texto gris oscuro */
+}
+
+.sidebar {
+    background-color: #ffffff; /* Fondo blanco para la barra lateral */
+    color: #343a40; /* Texto gris oscuro para la barra lateral */
+}
+
+.sidebar a {
+    color: #343a40; /* Color de los enlaces en la barra lateral */
+}
+
+.card {
+    background-color: #ffffff; /* Fondo blanco para las tarjetas */
+    border-color: #dee2e6; /* Borde gris claro para las tarjetas */
+}
+
+.navbar {
+    background-color: #ffffff; /* Fondo blanco para la barra de navegación */
+    border-bottom: 1px solid #dee2e6; /* Borde gris claro para la barra de navegación */
+}
+
+.navbar a {
+    color: #343a40; /* Color de los enlaces en la barra de navegación */
+}
+
